@@ -2,11 +2,11 @@ body {
     background-color: #2a2b2f; 
     display: flex; 
     flex-direction: column;
-    justify-content: center; 
+    justify-content: right; 
     font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
     font-weight: 300;
     color: #fff;
-    text-align:center;
+    text-align:left;
 }
 
 .mona-images {
